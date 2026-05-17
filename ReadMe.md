@@ -213,7 +213,7 @@ If you're building something that connects the world — literally — let's tal
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgarjeofficial)
+[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgarje)
 [![Email](https://img.shields.io/badge/Drop%20a%20Mail-mayurgarje299%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurgarje299@gmail.com)
 
 <br/>
