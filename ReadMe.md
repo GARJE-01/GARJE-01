@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Mayur+Garje+%F0%9F%91%8B;Network+Engineer+in+the+Making+%F0%9F%8C%90" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Mayur+Garje+%F0%9F%91%8B;CCNA+Certified+%7C+Network+Engineer" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,15 +23,16 @@
 
 ```bash
 $ whoami
-> Mayur Garje — Final-Year IT Engineering Student
+> Mayur Garje — Graduate IT Engineer | CCNA Certified ✅
 
 $ cat /etc/profile.d/mayur.conf
-FOCUS       = "Network Engineering"
-CURRENT     = "Routing, Switching, Subnetting, Network Security"
-BACKGROUND  = "Full-Stack Dev + AI/ML"
-SUPERPOWER  = "I understand how apps, servers & networks talk to each other"
-LOCATION    = "Maharashtra, India 🇮🇳"
-STATUS      = "Actively seeking entry-level Network Engineering roles"
+FOCUS         = "Network Engineering"
+CERTIFIED     = "Cisco CCNA ✅ — June 2026"
+CURRENT       = "Routing, Switching, Subnetting, Network Security"
+BACKGROUND    = "Full-Stack Dev + AI/ML"
+SUPERPOWER    = "I understand how apps, servers & networks talk to each other"
+LOCATION      = "Maharashtra, India 🇮🇳"
+STATUS        = "Actively seeking entry-level Network Engineering roles"
 ```
 
 > _"I don't just use networks — I build, break, and troubleshoot them."_
@@ -57,9 +58,21 @@ STATUS      = "Actively seeking entry-level Network Engineering roles"
 
 <div align="center">
 
-![CCNA Intro](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![CCNA SRWE](https://img.shields.io/badge/CCNA-Switching%20Routing%20%26%20Wireless-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![CCNA ENSA](https://img.shields.io/badge/CCNA-Enterprise%20Networking%20%26%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+### 🎉 Just Passed My CCNA Exam!
+
+![CCNA](https://img.shields.io/badge/Cisco-CCNA%20Certified%20✅-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+_Cisco Certified Network Associate — Passed June 2026_
+
+<br/>
+
+**CCNA Course Modules Completed:**
+
+![CCNA Intro](https://img.shields.io/badge/✅-Introduction%20to%20Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CCNA SRWE](https://img.shields.io/badge/✅-Switching%20Routing%20%26%20Wireless-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CCNA ENSA](https://img.shields.io/badge/✅-Enterprise%20Networking%20%26%20Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+<br/>
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Concepts-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Developer's%20Toolkit-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -158,15 +171,6 @@ STATUS      = "Actively seeking entry-level Network Engineering roles"
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=GARJE-01&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 ## 📡 Network Concept of the Week
 
@@ -182,7 +186,7 @@ STATUS      = "Actively seeking entry-level Network Engineering roles"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayur%20Garje-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgarje)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayur%20Garje-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgarjeofficial)
 [![Email](https://img.shields.io/badge/Email-mayurgarje299%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurgarje299@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-GARJE--01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GARJE-01)
 
@@ -213,7 +217,7 @@ If you're building something that connects the world — literally — let's tal
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgarje)
+[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgarjeofficial)
 [![Email](https://img.shields.io/badge/Drop%20a%20Mail-mayurgarje299%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurgarje299@gmail.com)
 
 <br/>
